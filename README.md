@@ -52,5 +52,6 @@ After executing the above command, your api will be hosted and can be accessed u
  
 
 Authorized api: http://localhost:5000/api/values
+
 Unauthorized api: http://localhost:5000/api/values/5
 
