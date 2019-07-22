@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using RBA.Data.Repository.Interfaces;
+using RBA.Web.Utilities;
 using System;
 using System.Linq;
 using System.Net;
@@ -36,12 +37,13 @@ namespace RBA
             //Find out user roles
             var userRoles = context.User.Claims.FirstOrDefault(_claim => string.Equals(_claim.Type, Constants.Claim.Roles)).Value.Split(';');
 
+            string actionType = context.GetUserActionType();
+
             foreach (var role in resourceRoles)
             {
                 if (userRoles.Contains(role.ToString()))
                 {
                     var allowedActionType = await _actionTypeRoleRepository.GetActionTypes(role);
-                    string actionType = context.Items["ActionType"].ToString();
 
                     if (allowedActionType.Contains(actionType))
                     {
