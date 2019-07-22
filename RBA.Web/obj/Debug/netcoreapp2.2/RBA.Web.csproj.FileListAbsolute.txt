@@ -1,0 +1,17 @@
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\bin\Debug\netcoreapp2.2\RBA.Web.deps.json
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\bin\Debug\netcoreapp2.2\RBA.Web.runtimeconfig.json
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\bin\Debug\netcoreapp2.2\RBA.Web.runtimeconfig.dev.json
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\bin\Debug\netcoreapp2.2\RBA.Web.dll
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\bin\Debug\netcoreapp2.2\RBA.Web.pdb
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\bin\Debug\netcoreapp2.2\RBA.Data.dll
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\bin\Debug\netcoreapp2.2\RBA.Data.pdb
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.csprojAssemblyReference.cache
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.csproj.CoreCompileInputs.cache
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.RazorAssemblyInfo.cache
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.RazorAssemblyInfo.cs
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.AssemblyInfoInputs.cache
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.AssemblyInfo.cs
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.RazorTargetAssemblyInfo.cache
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.csproj.CopyComplete
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.dll
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Web\obj\Debug\netcoreapp2.2\RBA.Web.pdb

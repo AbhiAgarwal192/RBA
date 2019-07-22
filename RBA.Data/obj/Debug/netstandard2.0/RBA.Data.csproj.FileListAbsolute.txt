@@ -1,0 +1,9 @@
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\bin\Debug\netstandard2.0\RBA.Data.deps.json
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\bin\Debug\netstandard2.0\RBA.Data.dll
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\obj\Debug\netstandard2.0\RBA.Data.csprojAssemblyReference.cache
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\obj\Debug\netstandard2.0\RBA.Data.csproj.CoreCompileInputs.cache
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\obj\Debug\netstandard2.0\RBA.Data.AssemblyInfoInputs.cache
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\obj\Debug\netstandard2.0\RBA.Data.AssemblyInfo.cs
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\bin\Debug\netstandard2.0\RBA.Data.pdb
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\obj\Debug\netstandard2.0\RBA.Data.dll
+C:\Users\abhi_agarwal\source\repos\LocusRBAProject\RBA.Data\obj\Debug\netstandard2.0\RBA.Data.pdb

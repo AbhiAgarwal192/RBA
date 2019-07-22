@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RBA.Web", "RBA.Web\RBA.Web.csproj", "{420683E9-115A-4222-B205-DD456A1B844C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RBA.Data", "RBA.Data\RBA.Data.csproj", "{FAD13FAD-7609-44B0-B007-1A5A5F5A45B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420683E9-115A-4222-B205-DD456A1B844C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420683E9-115A-4222-B205-DD456A1B844C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420683E9-115A-4222-B205-DD456A1B844C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420683E9-115A-4222-B205-DD456A1B844C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD13FAD-7609-44B0-B007-1A5A5F5A45B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD13FAD-7609-44B0-B007-1A5A5F5A45B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD13FAD-7609-44B0-B007-1A5A5F5A45B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD13FAD-7609-44B0-B007-1A5A5F5A45B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D8AD61-FE32-448D-8AAA-A172B838667F}
+	EndGlobalSection
+EndGlobal
