@@ -40,7 +40,7 @@ https://dotnet.microsoft.com/download/dotnet-core/2.2
 After the installation, you need to build the project.
 To build, use below command:
 
-dotnet build LocusRBAProject.sln
+dotnet build RBA.sln
  
 
 After the build is successful, go to the RBA.Web\bin\Debug\netcoreapp2.2 folder and execute the below command:
